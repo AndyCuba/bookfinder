@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/bookfinder/static/js/main.85b713d1.chunk.js",
+    "main.js.map": "/bookfinder/static/js/main.85b713d1.chunk.js.map",
+    "runtime-main.js": "/bookfinder/static/js/runtime-main.5f279d6e.js",
+    "runtime-main.js.map": "/bookfinder/static/js/runtime-main.5f279d6e.js.map",
+    "static/js/2.9cbe5df6.chunk.js": "/bookfinder/static/js/2.9cbe5df6.chunk.js",
+    "static/js/2.9cbe5df6.chunk.js.map": "/bookfinder/static/js/2.9cbe5df6.chunk.js.map",
+    "index.html": "/bookfinder/index.html",
+    "static/js/2.9cbe5df6.chunk.js.LICENSE.txt": "/bookfinder/static/js/2.9cbe5df6.chunk.js.LICENSE.txt",
+    "static/media/headerBackground.48ebd918.jpg": "/bookfinder/static/media/headerBackground.48ebd918.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f279d6e.js",
+    "static/js/2.9cbe5df6.chunk.js",
+    "static/js/main.85b713d1.chunk.js"
+  ]
+}
